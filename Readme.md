@@ -7,4 +7,4 @@
 |    figure    |     draw figure      |
 | smalldataset | make dataset smaller |
 
-![smile](https://github.com/maple0leaves/tools/tree/master/img/smile.png)
+![smile](https://github.com/maple0leaves/tools/blob/master/img/smile.png)

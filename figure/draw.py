@@ -33,7 +33,7 @@ param_text = ['5M', '20M', '35M', '50M', '65M']
 # 参数设置
 lw = 2
 ms = 15
-my_text = ['SC-YOLOv7(ours)', 'YOLOv7', 'YOLOv5m',
+my_text = ['SA-YOLOv7(ours)', 'YOLOv7', 'YOLOv5m',
            'YOLOv5l', 'YOLOv6n','YOLOv6m']
 my_text2 = '-S'
 # color = ['C8', 'C1', 'C0', 'C6', 'C4', 'C9', 'b', 'r']
